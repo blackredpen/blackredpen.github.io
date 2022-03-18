@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/blackredpen/blackredpen.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[heres a repo im working on](https://blackredpen.github.io/PCDE-Activity-9.1/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,7 +25,7 @@ Syntax highlighted code block
 3. numba tres
 
 **Bold** and _Italic_ and `Code` text
-[heres a repo im working on](https://blackredpen.github.io/PCDE-Activity-9.1/)
+
 [Link](url) and ![Image](src)
 ```
 
